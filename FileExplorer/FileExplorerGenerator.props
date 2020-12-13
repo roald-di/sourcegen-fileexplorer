@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Project>
+  <ItemGroup>
+    <CompilerVisibleItemMetadata Include="AdditionalFiles" MetadataName="TypeName" />
+    <CompilerVisibleItemMetadata Include="AdditionalFiles" MetadataName="RelativeTo" />
+    <CompilerVisibleItemMetadata Include="AdditionalFiles" MetadataName="BrowseFrom" />
+  </ItemGroup>
+</Project>
